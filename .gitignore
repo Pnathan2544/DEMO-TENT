@@ -1,0 +1,13 @@
+.env
+apps/web/.env.local
+*.exe
+apps/api/bin/
+apps/web/.next/
+apps/web/node_modules/
+apps/web/tsconfig.tsbuildinfo
+.claude/
+chat-export.html
+export-chat.go
+jar.txt
+make.ps1
+test_milestone_b.sh
