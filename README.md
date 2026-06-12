@@ -2,8 +2,10 @@
 
 A production-ready, multi-tenant SaaS starter kit with a Go API backend and Next.js frontend.
 
-NOTE 6/12/2026 -> This is my blind guess, but doesn't makefile lose its advantage because I didn't batch many commands together in one 'make?'
+NOTE 6/12/2026 -> 
+1. This is my blind guess, but doesn't makefile lose its advantage because I didn't batch many commands together in one 'make?'
 I mean if I want to use 'make up' why don't I just type 'docker compose up?'
+2. No ORM is less ideal for real production, but it's acceptable for learning, except that I use Chatbot to write SQL commands myself and never bother reviewing it
 
 ## Tech Stack
 
