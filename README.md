@@ -2,6 +2,9 @@
 
 A production-ready, multi-tenant SaaS starter kit with a Go API backend and Next.js frontend.
 
+NOTE 6/12/2026 -> This is my blind guess, but doesn't makefile lose its advantage because I didn't batch many commands together in one 'make?'
+I mean if I want to use 'make up' why don't I just type 'docker compose up?'
+
 ## Tech Stack
 
 **Backend** — Go 1.24, Fiber v2, pgx/v5 (no ORM), PostgreSQL 16  
