@@ -161,6 +161,8 @@ The frontend starts on `http://localhost:3000`. API requests are proxied to the 
 | `make docker-down` | Stop Docker services |
 | `make web-dev` | Start frontend dev server |
 
+make clean should have been added, to clear docker volume
+
 ## License
 
 MIT
